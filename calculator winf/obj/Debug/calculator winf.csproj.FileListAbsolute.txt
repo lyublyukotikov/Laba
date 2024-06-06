@@ -1,0 +1,11 @@
+C:\Users\админ\source\repos\calculator winf\calculator winf\bin\Debug\calculator winf.exe.config
+C:\Users\админ\source\repos\calculator winf\calculator winf\bin\Debug\calculator winf.exe
+C:\Users\админ\source\repos\calculator winf\calculator winf\bin\Debug\calculator winf.pdb
+C:\Users\админ\source\repos\calculator winf\calculator winf\obj\Debug\calculator winf.csproj.AssemblyReference.cache
+C:\Users\админ\source\repos\calculator winf\calculator winf\obj\Debug\calculator_winf.Properties.Resources.resources
+C:\Users\админ\source\repos\calculator winf\calculator winf\obj\Debug\calculator winf.csproj.GenerateResource.cache
+C:\Users\админ\source\repos\calculator winf\calculator winf\obj\Debug\calculator winf.csproj.CoreCompileInputs.cache
+C:\Users\админ\source\repos\calculator winf\calculator winf\obj\Debug\calculator winf.exe
+C:\Users\админ\source\repos\calculator winf\calculator winf\obj\Debug\calculator winf.pdb
+C:\Users\админ\source\repos\calculator winf\calculator winf\obj\Debug\calculator_winf.калькулятор.resources
+C:\Users\админ\source\repos\calculator winf\calculator winf\obj\Debug\calculator_winf.Form2.resources
